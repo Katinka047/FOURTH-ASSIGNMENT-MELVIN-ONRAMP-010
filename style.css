@@ -1,15 +1,15 @@
 body{
-border: 0px;
-margin: 0px;
-}
-.body{
+    background-image: url(./images/img.png);
+    background-size: cover;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 .form{
     border: red;
     border-radius:25px;
     background-color: #fa5959;
-    padding: 20px 10px 0px 0px;
-    margin: 500px;
+    padding: 40px 80px 40px 50px;
+    margin: 220px;
     text-align-last: center;
     text-align: center;
     justify-content: space-evenly;
@@ -19,8 +19,8 @@ margin: 0px;
     color: white;
 }
 .a{
-    width: 160px;
-    display: inline-block;
+    width: 200px;
+    display: inline-block
 }
 .btn{
     border: 1;
